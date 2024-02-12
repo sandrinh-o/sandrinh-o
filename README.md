@@ -4,8 +4,9 @@ Sou o Sandro, GitHub em progresso... ⌛
 
 • 🏠 São Caetano do Sul - SP. <br>
 • 👨🏾‍💻 Análise e Desenvolvimento de Sistemas.
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandrinh-o&theme=radical)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandrinh-o&theme=radical)
 
 <div style="display: inline_block"><br>  
   
@@ -15,7 +16,7 @@ Sou o Sandro, GitHub em progresso... ⌛
   <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="NodeJs" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
                    
-          
+    
 </div>
   
   ##
